@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Blank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirankamal08/ReactJS-Learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirankamal08/ReactJS-Learning/issues"
+  },
+  "homepage": "https://github.com/kirankamal08/ReactJS-Learning#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
